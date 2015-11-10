@@ -5,7 +5,7 @@
  * Date: 10.11.2015
  * Time: 15:34
  */
-/** @var TYPE_NAME $_GET */
+/** @var bla  $_GET */
 $kontinent = $_GET["kontinent"];
 
 $url = "ressources/img/".$kontinent.".gif";
