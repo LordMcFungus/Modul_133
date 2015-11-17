@@ -16,11 +16,11 @@
 <body>
    <h1>Show Continent</h1>
     <img src="ressources/img/World.gif"
-         usemap="continetmap">
+         usemap="continentmap">
 
-    <map name="continetmap">
+    <map name="continentmap">
         <area shape="rect" coords="38,49,157,127" href="kontinent.php?kontinent=USA" alt="USA">
-        <area shape="rect" coords="133,14,317,91" href="kontinent.php?kontinent=Europe" alt="Europe">
+        <area shape="rect" coords="233,14,317,81" href="kontinent.php?kontinent=Europe" alt="Europe">
         <area shape="rect" coords="480,58,522,105" href="kontinent.php?kontinent=Japan" alt="Japan">
     </map>
 </body>
